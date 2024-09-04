@@ -9,7 +9,7 @@ Welcome to **CRUD System**! This web application provides a comprehensive soluti
 
 Check out the live version of the application here:
 
-[CRUD System Website](https://eslam-ward.github.io/My-Recipes/)
+[CRUD System Website](https://eslam-ward.github.io/CRUD-Operations-JS/)
 
 ## 🚀 Features
 
